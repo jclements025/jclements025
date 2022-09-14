@@ -1,0 +1,143 @@
+Cloud Basics 
+
+What is Cloud Computing? (https://aws.amazon.com/what-is-cloud-computing/) 
+Cloud Adoption Framework (https://aws.amazon.com/professional-services/CAF/) 
+Getting Started Resource Center (https://aws.amazon.com/getting-started/)
+
+Cloud Migration 
+Migrating to Amazon Web Services (https://aws.amazon.com/cloud-migration/) 
+Cloud Migration Best Practices (https://aws.amazon.com/events/migration/webinars/whitepapers/) 
+AWS Cloud Enterprise Strategy Blog (https://aws.amazon.com/blogs/enterprise-strategy/) 
+Mainframe Modernization (https://aws.amazon.com/blogs/apn/patterns-and-best-practices-for-mainframe-modernization-with-aws/) 
+21 Best Practices for Your Cloud Migration (https://aws.amazon.com/blogs/enterprise-strategy/21-best-practices-for-your-cloud-migration/) 
+Partner Ecosystem (https://aws.amazon.com/migration/partner-solutions/) 
+
+Architecting for AWS 
+Architecting for the Cloud Whitepaper (https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf) 
+AWS Well Architected Framework ( https://wa.aws.amazon.com/index.html ) 
+Operational Excellence (https://wa.aws.amazon.com/wat.pillar.operationalexcellence.en.html) 
+AWS Cloud Compliance (https://aws.amazon.com/marketplace/solutions/security/cloud-compliance) 
+AWS Trusted Advisor (https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/) 
+AWS Business Support ( https://docs.aws.amazon.com/awssupport/latest/user/getting-started.html ) 
+Enterprise Support ( https://aws.amazon.com/premiumsupport/plans/enterprise/ ) 
+
+Security (https://wa.aws.amazon.com/wat.pillar.security.en.html) 
+AWS IAM Best Practices (https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html) 
+AWS Shared Responsibility ( https://aws.amazon.com/compliance/shared-responsibility-model/ ) 
+AWS Credentials management (https://aws.amazon.com/blogs/developer/credentials-best-practices/) 
+AWS User management (https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_manage.html) 
+AWS Group management (https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups_manage.html) 
+AWS Account Structure Considerations ( https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-laying-the-foundation/aws-account-structure.html ) 
+AWS Security Best Practices Blog (https://aws.amazon.com/blogs/security/tag/best-practices/) 
+
+Reliability ( https://wa.aws.amazon.com/wat.pillar.reliability.en.html ) 
+How do you manage service limits? (https://wa.aws.amazon.com/wat.question.REL_1.en.html) 
+How do you manage your network topology? ( https://wa.aws.amazon.com/wat.question.REL_2.en.html) 
+How does your system adapt to changes in demand? (https://wa.aws.amazon.com/wat.question.REL_3.en.html) 
+How do you monitor your resources? (https://wa.aws.amazon.com/wat.question.REL_4.en.html) 
+How do you implement change? (https://wa.aws.amazon.com/wat.question.REL_5.en.html) 
+How do you back up data? (https://wa.aws.amazon.com/wat.question.REL_6.en.html) 
+How does your system withstand component failures? (https://wa.aws.amazon.com/wat.question.REL_7.en.html) 
+How do you test resilience? (https://wa.aws.amazon.com/wat.question.REL_8.en.html) 
+How do you plan for disaster recovery? (https://wa.aws.amazon.com/wat.question.REL_9.en.html) 
+
+Performance Efficiency (https://wa.aws.amazon.com/wat.pillar.performance.en.html) 
+How do you select the best performing architecture? (https://wa.aws.amazon.com/wat.question.PERF_1.en.html) 
+How do you select your compute solution? (https://wa.aws.amazon.com/wat.question.PERF_2.en.html) 
+How do you select your storage solution? (https://wa.aws.amazon.com/wat.question.PERF_3.en.html) 
+How do you select your database solution? (https://wa.aws.amazon.com/wat.question.PERF_4.en.html) 
+How do you configure your networking solution? (https://wa.aws.amazon.com/wat.question.PERF_5.en.html) 
+How do you evolve your workload to take advantage of new releases? (https://wa.aws.amazon.com/wat.question.PERF_6.en.html) 
+How do you monitor your resources to ensure they are performing as expected? (https://wa.aws.amazon.com/wat.question.PERF_7.en.html) 
+How do you use tradeoffs to improve performance? (https://wa.aws.amazon.com/wat.question.PERF_8.en.html) 
+
+Cost Optimization ( https://wa.aws.amazon.com/wat.pillar.costoptimization.en.html ) 
+How can I analyze my costs with Cost Explorer? (https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-what-is.html) 
+How can I access the AWS Simple Monthly Calculator to estimate my planned architecture? (https://calculator.s3.amazonaws.com/index.html) 
+How do I purchase Reserved Instances? (https://aws.amazon.com/ec2/pricing/reserved-instances/buyer/) 
+What are some Reserved Instance Recommendations? (https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ri-recommendations.html) 
+What are some Spot Instance Best Practices? (https://aws.amazon.com/ec2/spot/getting-started/#bestpractices) 
+Where can I find AWS billing and cost management documentation? (https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html) 
+How can I set Amazon CloudWatch Alarms to help monitor costs? (https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ConsoleAlarms.html) 
+Can I use AWS Trusted Adviser to help me manage costs? Yes! (https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) 
+How do you govern usage? (https://wa.aws.amazon.com/wat.question.COST_1.en.html) 
+How do you monitor usage and cost? (https://wa.aws.amazon.com/wat.question.COST_2.en.html) 
+How do you decommission resources? (https://wa.aws.amazon.com/wat.question.COST_3.en.html) 
+How do you evaluate cost when you select services? (https://wa.aws.amazon.com/wat.question.COST_4.en.html) 
+How do you meet cost targets when you select resource type and size? (https://wa.aws.amazon.com/wat.question.COST_5.en.html) 
+How do you use pricing models to reduce cost? (https://wa.aws.amazon.com/wat.question.COST_6.en.html) 
+How do you plan for data transfer charges? (https://wa.aws.amazon.com/wat.question.COST_7.en.html) 
+How do you match supply of resources with demand? (https://wa.aws.amazon.com/wat.question.COST_8.en.html) 
+How do you evaluate new services? (https://wa.aws.amazon.com/wat.question.COST_9.en.html) 
+
+PARTNERING WITH AWS 
+AWS Partner Network (https://aws.amazon.com/partners/) 
+Becoming an APN Consulting Partner (https://aws.amazon.com/partners/consulting/journey/) 
+Becoming an APN Technology Partner (https://aws.amazon.com/partners/technology/journey/) 
+
+DEVELOPMENT ON AWS 
+DevOps and AWS (https://aws.amazon.com/devops/) 
+Software Release Workflows - AWS CodePipeline (https://aws.amazon.com/codepipeline/) 
+Build and Test Code - AWS CodeBuild (https://aws.amazon.com/codebuild/) 
+Deployment Automation - AWS CodeDeploy (https://aws.amazon.com/codedeploy/) 
+Unified CI/CD Projects - AWS CodeStar (https://aws.amazon.com/codestar/) 
+Microservices (https://aws.amazon.com/what-are-containers/) (https://aws.amazon.com/serverless/) 
+Production Docker Platform - Amazon Elastic Container Service (https://aws.amazon.com/ecs/) 
+Serverless Computing - AWS Lambda (https://aws.amazon.com/lambda/) 
+Infrastructure as Code 
+Templated Infrastructure Provisioning - AWS CloudFormation (https://aws.amazon.com/cloudformation/) 
+Chef Configuration Management - AWS OpsWorks (https://aws.amazon.com/opsworks/) 
+Configuration Management - AWS Systems Manager (https://aws.amazon.com/systems-manager/) 
+Policy as Code - AWS Config (https://aws.amazon.com/config/) 
+
+Monitoring and Logging 
+Cloud and Network Monitoring - Amazon CloudWatch (https://aws.amazon.com/cloudwatch/) 
+Distributed Tracing - AWS X-Ray (https://aws.amazon.com/xray/) 
+Activity & API Usage Tracking - AWS CloudTrail (https://aws.amazon.com/cloudtrail/) 
+
+Platform as a Service 
+Run and Manage Web Apps - AWS Elastic Beanstalk (https://aws.amazon.com/elasticbeanstalk/) 
+
+Version Control 
+Private Git Hosting - AWS CodeCommit (https://aws.amazon.com/codecommit/) 
+
+AWS DATABASES SERVICES 
+Database Services (https://aws.amazon.com/products/databases/) 
+Amazon Aurora Best practices (https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.BestPractices.html) 
+Amazon RDS Best practices (https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html) 
+Amazon Redshift Best practices (https://docs.aws.amazon.com/redshift/latest/dg/best-practices.html) 
+Amazon DynamoDB Best practices (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html) 
+Amazon DocumentDB Best practices (https://docs.aws.amazon.com/documentdb/latest/developerguide/best-practices.html) 
+Amazon ElastiCache for Redis (https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/BestPractices.html) 
+Amazon ElastiCache for Memcached (https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/BestPractices.html) 
+Amazon Neptune Best practices (https://docs.aws.amazon.com/neptune/latest/userguide/best-practices.html) 
+(PREVIEW) Amazon Timestream (https://aws.amazon.com/timestream/) 
+(PREVIEW) Amazon Quantum Ledger Database (QLDB) (https://aws.amazon.com/qldb/) 
+
+AWS STORAGE SERVICES 
+AWS Cloud Storage Products (https://aws.amazon.com/products/storage/) 
+Amazon Elastic Block Store - (Amazon EBS) (https://aws.amazon.com/ebs/) 
+Amazon Elastic File System - (Amazon EFS) (https://aws.amazon.com/efs/) 
+Amazon FSx for Lustre (https://aws.amazon.com/fsx/lustre/) 
+Amazon FSx for Windows File Server (https://aws.amazon.com/fsx/windows/) 
+Amazon Simple Storage Service - (Amazon S3) - Best Practices (https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html) 
+Amazon Glacier (https://aws.amazon.com/glacier/) 
+AWS Storage Gateway (https://docs.aws.amazon.com/storagegateway/latest/userguide/WhatIsStorageGateway.html) 
+Cloud Data Migration Services (https://aws.amazon.com/cloud-data-migration/) 
+AWS Backup (https://aws.amazon.com/backup/) 
+
+AWS COMPUTE SERVICES 
+Amazon EC2 Best practices (https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-best-practices.html) 
+Amazon EC2 Autoscaling Best practices (https://docs.aws.amazon.com/autoscaling/plans/userguide/gs-best-practices.html) 
+Amazon EC2 Container Registry (https://aws.amazon.com/ecr/) 
+Amazon Elastic Container Service Common Use Cases (https://docs.aws.amazon.com/AmazonECS/latest/developerguide/common_use_cases.html) 
+Amazon Elastic Container Service for Kubernetes (https://aws.amazon.com/eks/) 
+Amazon Lightsail (https://aws.amazon.com/lightsail/) 
+AWS Batch Use Cases (https://aws.amazon.com/batch/use-cases/) 
+AWS Elastic Beanstalk Design considerations (https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.concepts.design.html) 
+AWS Fargate (https://aws.amazon.com/fargate/) 
+AWS Lambda Best Practices (https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html) 
+AWS Outposts(https://aws.amazon.com/outposts/) 
+AWS Serverless Application Repository (https://aws.amazon.com/serverless/serverlessrepo/) 
+Elastic Load Balancing (ELB) (https://aws.amazon.com/elasticloadbalancing/) 
+VMware Cloud on AWS (https://aws.amazon.com/vmware/) 
